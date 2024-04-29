@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Mobile%20Friendly%20Orion')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AlvanF/OrionLib-Break-in-2/main/.lua')))()
 local Window = OrionLib:MakeWindow({Name = "Kemiling Hub", HidePremium = false, SaveConfig = true, IntroEnabled = true, IntroText="Kemiling Hub"})
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoahCodeMaster/VentureHub/main/Stuff/src.lua"))()
 -- Var
